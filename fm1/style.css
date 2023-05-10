@@ -1,0 +1,15 @@
+*{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    width: 40vh;
+    height: 60vh;
+    flex-direction: column;
+    justify-content: center;
+}
+.container img{
+    width: 80%;
+}
